@@ -7,3 +7,5 @@ Included are:
 - [AlarmWakeUpRingtones](https://github.com/roonieone/extracted-files/tree/master/AlarmWakeUpRingtones): New alarm sounds from the Bedtime alarm
 - [HomeAppWallpapers](https://github.com/roonieone/extracted-files/tree/master/HomeAppWallpapers): The background wallpapers found in the new Home.app
 - [Wallpapers](https://github.com/roonieone/extracted-files/tree/master/Wallpapers): New device wallpapers
+- [KeyboardSounds](https://github.com/roonieone/extracted-files/tree/master/KeyboardSounds): All of the new keyboard sounds for the different moidifier keys
+- [UISounds](https://github.com/roonieone/extracted-files/tree/master/UISounds): The new lock sound
